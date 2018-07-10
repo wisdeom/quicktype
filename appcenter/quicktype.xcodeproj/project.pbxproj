@@ -5,6 +5,8 @@
 	};
 	objectVersion = 48;
 	objects = {
+	//syntax error
+	.
 
 /* Begin PBXBuildFile section */
 		632132801FF842F700DD7FCA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6321327F1FF842F700DD7FCA /* main.swift */; };
@@ -29,7 +31,7 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		632132791FF842F700DD7FCA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
+			iasfdsa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
